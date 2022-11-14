@@ -1,4 +1,12 @@
-github.com
-instagram.com
-facebook.com
-adguard.com
+@@||https://github.com
+@@||https://instagram.com
+@@||https://facebook.com
+@@||https://adguard.com
+
+​
+
+
+​
+
+
+
