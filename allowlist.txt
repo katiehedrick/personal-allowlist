@@ -1,5 +1,5 @@
-.instagram.com
-.facebook.com
+.www.instagram.com
+.www.facebook.com
 .adguard.com
 .github.com
 
