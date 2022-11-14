@@ -1,4 +1,4 @@
-*.https://www.instagram.com/
+www.instagram.com
 *facebook.com
 *adguard.com
 *github.com
