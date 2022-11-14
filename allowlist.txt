@@ -1,7 +1,7 @@
-m.instagram.com
-*facebook.com
-*adguard.com
-*github.com
+.instagram.com
+.facebook.com
+.adguard.com
+.github.com
 
 ​
 
