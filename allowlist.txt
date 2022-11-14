@@ -1,7 +1,7 @@
 .www.instagram.com
 .www.facebook.com
-.adguard.com
-.github.com
+.www.adguard.com
+.www.github.com
 
 ​
 
